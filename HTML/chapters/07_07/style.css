@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+button {
+  padding: 40px; 
+  border-color: red;
+  margin: 20px;
+  width: 200px;
+  box-sizing: content-box;
+}

@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+.header {
+  height: 44px;
+  background-color: #FFF;
+  position: relative;
+}
+.header h1 {
+  font-size: 1.3rem;
+  color: #FA6980;
+  position: absolute;
+  left: 24px;
+  top: 10px;
+}
+.header__navigation {
+  display: none;
+}
+.main {
+  background-color: #f6f8f9;
+}
+.section-top {
+  margin-bottom: 60px;
+}
+
+.section-top__image {
+  height: 388px;
+  background-image: url("../images/top/top_image.jpg");
+  background-position: center;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
